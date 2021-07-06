@@ -14,7 +14,7 @@ Automagically save any email to Wobaka by including your mailbox address as BCC 
 
 This is what it looks like in Apple Mail.
 
-![Include mailbox address as BCC to automagically save emails to Wobaka](../.gitbook/assets/screenshot-2021-07-06-at-11.10.04.png)
+![Include mailbox address as BCC to automagically save emails to Wobaka](../.gitbook/assets/screenshot-2021-07-06-at-11.31.18.png)
 
 In Gmail you may have to enable the BCC field by clicking it.
 
