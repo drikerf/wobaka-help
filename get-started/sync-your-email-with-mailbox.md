@@ -20,7 +20,13 @@ In Gmail you may have to enable the BCC field by clicking it.
 
 ![Show the BCC field in Gmail](../.gitbook/assets/screenshot-2021-07-06-at-11.17.23.png)
 
-### 3. Optional: Save mailbox address as contact
+### 3. New emails will appear on contacts
+
+Any email sent to your mailbox will appear on the corresponding contact with an email matching the receiver of your email. If no such contact exists, it will be created for you.
+
+If you've forwarded an email to your inbox, we'll try to find the contact email from the original by parsing the email body.
+
+### 4. Optional: Save mailbox address as contact
 
 Add the mailbox address to your address book for easy access and autocomplete when sending emails. You can for example use the name "Mailbox" which will allow you to just type "Mailbox" and let autocomplete do the rest for you.
 
