@@ -6,7 +6,7 @@ Start sharing sales emails with your team in minutes. Just include your unique m
 
 You can find your unique mailbox address under **Settings &gt; Mailbox**.
 
-![Find your mailbox address in settings](../.gitbook/assets/screenshot-2021-07-06-at-11.02.39.png)
+![Find your mailbox address in settings](../.gitbook/assets/screenshot-2021-07-06-at-11.25.43.png)
 
 ### 2. Add mailbox address as BCC when sending an email
 
