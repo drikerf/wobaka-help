@@ -2,9 +2,7 @@
 
 Start sharing sales emails with your team in minutes. Just include your unique mailbox address as **BCC** or forward an email to it. Simple and privacy friendly. No inbox scanning required. This is how to get started.
 
-{% embed url="https://vimeo.com/571632725" %}
-
-
+{% embed url="https://vimeo.com/571632725" caption="Video walk-through of Mailbox" %}
 
 ### 1. Find your unique mailbox address
 
