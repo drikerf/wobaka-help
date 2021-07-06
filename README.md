@@ -14,15 +14,11 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 
 {% page-ref page="get-started/sync-your-email-with-mailbox.md" %}
 
-Articles to get started: Connect email for outreach, Sync your email with mailbox, Share emails with your team, Create and manage todos, Create automation, Start automation, Manage running automations, Create opportunity, Manage opportunities, Introduction to analytics, Invite your team, Create your first email template.
-
 ## Dive deeper
 
-Customize pipeline, Create a new pipeline, Customize contact statuses, Setup integrations with Zapier, Connect to our API, Customize mailbox status, Set mailbox availability, Set default opporunitity attributes
+
 
 ## Having problems?
-
-FAQ, Articles on common problems
 
 
 
