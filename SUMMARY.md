@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Get started
+## 🦉 Get started
 
 * [Sync your email with Mailbox](get-started/sync-your-email-with-mailbox.md)
 
