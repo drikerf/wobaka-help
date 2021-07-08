@@ -2,6 +2,10 @@
 
 You can invite as many team members as you'd like to Wobaka. It's super easy too!
 
+{% hint style="info" %}
+You need to be the owner of your company on Wobaka to invite users
+{% endhint %}
+
 ### 1. Invite a new user
 
 Head over to **Settings &gt; Users** and enter the email of the new user.

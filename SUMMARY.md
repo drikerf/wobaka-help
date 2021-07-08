@@ -13,3 +13,7 @@
 * [Troubleshooting](having-problems/troubleshooting.md)
 * [Contact support](having-problems/contact-support.md)
 
+## 🤿 Diving deeper
+
+* [Customize contact statuses](diving-deeper/customize-contact-statuses.md)
+
