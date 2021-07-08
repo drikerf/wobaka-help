@@ -12,6 +12,8 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 
 {% page-ref page="get-started/sync-your-email-with-mailbox.md" %}
 
+{% page-ref page="get-started/invite-team-members.md" %}
+
 ## Dive deeper
 
 
