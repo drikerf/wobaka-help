@@ -6,6 +6,8 @@
 
 * [Sync your email with Mailbox](get-started/sync-your-email-with-mailbox.md)
 * [Invite team members](get-started/invite-team-members.md)
+* [Automate your email outreach](get-started/automate-your-email-outreach.md)
+* [Setup email sending](get-started/setup-email-sending.md)
 
 ## ☔️ Having problems?
 
@@ -16,4 +18,5 @@
 ## 🤿 Diving deeper
 
 * [Customize contact statuses](diving-deeper/customize-contact-statuses.md)
+* [Managing email templates](diving-deeper/managing-email-templates.md)
 
