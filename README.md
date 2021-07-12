@@ -14,9 +14,15 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 
 {% page-ref page="get-started/invite-team-members.md" %}
 
+{% page-ref page="get-started/automate-your-email-outreach.md" %}
+
+{% page-ref page="get-started/setup-email-sending.md" %}
+
 ## Dive deeper
 
 {% page-ref page="diving-deeper/customize-contact-statuses.md" %}
+
+{% page-ref page="diving-deeper/managing-email-templates.md" %}
 
 ## Having problems?
 
