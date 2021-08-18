@@ -9,14 +9,14 @@
 * [Automate your email outreach](get-started/automate-your-email-outreach.md)
 * [Setup email sending](get-started/setup-email-sending.md)
 
+## 🤿 Diving deeper
+
+* [Customize contact statuses](diving-deeper/customize-contact-statuses.md)
+* [Managing email templates](diving-deeper/managing-email-templates.md)
+
 ## ☔️ Having problems?
 
 * [FAQ](having-problems/faq.md)
 * [Troubleshooting](having-problems/troubleshooting.md)
 * [Contact support](having-problems/contact-support.md)
-
-## 🤿 Diving deeper
-
-* [Customize contact statuses](diving-deeper/customize-contact-statuses.md)
-* [Managing email templates](diving-deeper/managing-email-templates.md)
 
