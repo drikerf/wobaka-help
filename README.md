@@ -22,7 +22,11 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 
 {% page-ref page="diving-deeper/customize-contact-statuses.md" %}
 
+{% page-ref page="diving-deeper/customize-your-sales-pipeline.md" %}
+
 {% page-ref page="diving-deeper/managing-email-templates.md" %}
+
+
 
 ## Having problems?
 
