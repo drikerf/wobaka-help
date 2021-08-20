@@ -22,3 +22,7 @@
 * [Troubleshooting](having-problems/troubleshooting.md)
 * [Contact support](having-problems/contact-support.md)
 
+---
+
+* [Create a new pipeline](create-a-new-pipeline.md)
+
