@@ -14,6 +14,7 @@
 
 * [Customize contact statuses](diving-deeper/customize-contact-statuses.md)
 * [Customize your sales pipeline](diving-deeper/customize-your-sales-pipeline.md)
+* [Create a new pipeline](diving-deeper/create-a-new-pipeline.md)
 * [Managing email templates](diving-deeper/managing-email-templates.md)
 
 ## ☔️ Having problems?
@@ -21,8 +22,4 @@
 * [FAQ](having-problems/faq.md)
 * [Troubleshooting](having-problems/troubleshooting.md)
 * [Contact support](having-problems/contact-support.md)
-
----
-
-* [Create a new pipeline](create-a-new-pipeline.md)
 
