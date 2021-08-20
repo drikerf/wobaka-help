@@ -13,6 +13,7 @@
 ## 🤿 Diving deeper
 
 * [Customize contact statuses](diving-deeper/customize-contact-statuses.md)
+* [Customize your sales pipeline](diving-deeper/customize-your-sales-pipeline.md)
 * [Managing email templates](diving-deeper/managing-email-templates.md)
 
 ## ☔️ Having problems?
