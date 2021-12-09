@@ -10,29 +10,52 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 
 ## Getting started
 
-{% page-ref page="get-started/sync-your-email-with-mailbox.md" %}
+{% content-ref url="get-started/import-contacts.md" %}
+[import-contacts.md](get-started/import-contacts.md)
+{% endcontent-ref %}
 
-{% page-ref page="get-started/invite-team-members.md" %}
+{% content-ref url="get-started/sync-your-email-with-mailbox.md" %}
+[sync-your-email-with-mailbox.md](get-started/sync-your-email-with-mailbox.md)
+{% endcontent-ref %}
 
-{% page-ref page="get-started/automate-your-email-outreach.md" %}
+{% content-ref url="get-started/invite-team-members.md" %}
+[invite-team-members.md](get-started/invite-team-members.md)
+{% endcontent-ref %}
 
-{% page-ref page="get-started/setup-email-sending.md" %}
+{% content-ref url="get-started/automate-your-email-outreach.md" %}
+[automate-your-email-outreach.md](get-started/automate-your-email-outreach.md)
+{% endcontent-ref %}
+
+{% content-ref url="get-started/setup-email-sending.md" %}
+[setup-email-sending.md](get-started/setup-email-sending.md)
+{% endcontent-ref %}
 
 ## Dive deeper
 
-{% page-ref page="diving-deeper/customize-contact-statuses.md" %}
+{% content-ref url="diving-deeper/customize-contact-statuses.md" %}
+[customize-contact-statuses.md](diving-deeper/customize-contact-statuses.md)
+{% endcontent-ref %}
 
-{% page-ref page="diving-deeper/customize-your-sales-pipeline.md" %}
+{% content-ref url="diving-deeper/customize-your-sales-pipeline.md" %}
+[customize-your-sales-pipeline.md](diving-deeper/customize-your-sales-pipeline.md)
+{% endcontent-ref %}
 
-{% page-ref page="diving-deeper/managing-email-templates.md" %}
+{% content-ref url="diving-deeper/managing-email-templates.md" %}
+[managing-email-templates.md](diving-deeper/managing-email-templates.md)
+{% endcontent-ref %}
 
 
 
 ## Having problems?
 
-{% page-ref page="having-problems/faq.md" %}
+{% content-ref url="having-problems/faq.md" %}
+[faq.md](having-problems/faq.md)
+{% endcontent-ref %}
 
-{% page-ref page="having-problems/troubleshooting.md" %}
+{% content-ref url="having-problems/troubleshooting.md" %}
+[troubleshooting.md](having-problems/troubleshooting.md)
+{% endcontent-ref %}
 
-{% page-ref page="having-problems/contact-support.md" %}
-
+{% content-ref url="having-problems/contact-support.md" %}
+[contact-support.md](having-problems/contact-support.md)
+{% endcontent-ref %}
