@@ -40,11 +40,17 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 [customize-your-sales-pipeline.md](diving-deeper/customize-your-sales-pipeline.md)
 {% endcontent-ref %}
 
+{% content-ref url="diving-deeper/create-a-new-pipeline.md" %}
+[create-a-new-pipeline.md](diving-deeper/create-a-new-pipeline.md)
+{% endcontent-ref %}
+
 {% content-ref url="diving-deeper/managing-email-templates.md" %}
 [managing-email-templates.md](diving-deeper/managing-email-templates.md)
 {% endcontent-ref %}
 
-
+{% content-ref url="diving-deeper/default-opportunity-settings.md" %}
+[default-opportunity-settings.md](diving-deeper/default-opportunity-settings.md)
+{% endcontent-ref %}
 
 ## Having problems?
 

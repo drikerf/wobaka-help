@@ -17,6 +17,7 @@
 * [Customize your sales pipeline](diving-deeper/customize-your-sales-pipeline.md)
 * [Create a new pipeline](diving-deeper/create-a-new-pipeline.md)
 * [Managing email templates](diving-deeper/managing-email-templates.md)
+* [Default opportunity settings](diving-deeper/default-opportunity-settings.md)
 
 ## ☔️ Having problems?
 
