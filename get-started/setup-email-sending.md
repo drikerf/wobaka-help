@@ -7,6 +7,10 @@ To be able to send email with Wobaka you need to set your SMTP settings. This ca
 
 Click "Test and save". This will test your settings and if everything works you'll be notified with a success. If it doesn't work there is probably some issue with your settings/email provider.
 
+{% hint style="warning" %}
+Wobaka will use the email you signed up with as _from email._ If you used an alias such as yourname_+something@yourdomain.com_ this can cause some issues when setting up email sending. If that happens, please contact us and we'll sort it out.
+{% endhint %}
+
 {% hint style="info" %}
 Any email provider that supports SMTP should work with Wobaka. However some providers have limitations which makes them less reliable. **We recommend FastMail or Gmail for sending emails**.
 {% endhint %}
