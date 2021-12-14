@@ -1,14 +1,14 @@
-# Setup automatic Bcc in FastMail
+# Setup automatic Bcc in Fastmail
 
-Setting up automatic Bcc will allow you do save all your emails to Wobaka CRM without adding your Mailbox as Bcc every time. This guide will show you how to setup automatic Bcc in just a few steps using FastMail.
+Setting up automatic Bcc will allow you do save all your emails to Wobaka CRM without adding your Mailbox as Bcc every time. This guide will show you how to setup automatic Bcc in just a few steps using Fastmail.
 
 ### 1. Go to settings
 
-First, in the FastMail web application, head over to **Settings > Sending identities**
+First, in the Fastmail web application, head over to **Settings > Sending identities**
 
 ### 2. Select email address
 
-FastMail makes it easy to setup automatic Bcc per email addresses. This allows you to automatically Bcc Wobaka when sending from, for example your work email, but not from your personal email address. Click **Edit** to continue to Bcc settings for a specific email.
+Fastmail makes it easy to setup automatic Bcc per email addresses. This allows you to automatically Bcc Wobaka when sending from, for example your work email, but not from your personal email address. Click **Edit** to continue to Bcc settings for a specific email.
 
 ### 3. Set your auto Bcc address
 
@@ -28,4 +28,4 @@ Need help finding your Wobaka Mailbox address? Read this 👇
 [sync-your-email-with-mailbox.md](../get-started/sync-your-email-with-mailbox.md)
 {% endcontent-ref %}
 
-You can also find FastMail's official documentation [here](https://www.fastmail.help/hc/en-us/articles/1500000280401-Identities).
+You can also find Fastmail's official documentation [here](https://www.fastmail.help/hc/en-us/articles/1500000280401-Identities).
