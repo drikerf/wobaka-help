@@ -20,7 +20,7 @@ Hit **Save** when you're done and then you're ready to send! 🥳
 You can find your Mailbox address in Wobaka under **Settings > Mailbox**.
 {% endhint %}
 
-![](<../.gitbook/assets/Screen Shot 2021-12-14 at 07.00.09.png>)
+![](<../.gitbook/assets/Screen Shot 2021-12-14 at 15.47.31.png>)
 
 Need help finding your Wobaka Mailbox address? Read this 👇
 
