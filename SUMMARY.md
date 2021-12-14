@@ -22,7 +22,6 @@
 ## 💌 Working with email
 
 * [Setup automatic Bcc in FastMail](working-with-email/setup-automatic-bcc-in-fastmail.md)
-* [Setup automatic Bcc in Mail App](working-with-email/setup-automatic-bcc-in-mail-app.md)
 
 ## ☔️ Having problems?
 
