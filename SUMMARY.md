@@ -19,12 +19,13 @@
 * [Managing email templates](diving-deeper/managing-email-templates.md)
 * [Default opportunity settings](diving-deeper/default-opportunity-settings.md)
 
+## 💌 Working with email
+
+* [Setup automatic Bcc in FastMail](working-with-email/setup-automatic-bcc-in-fastmail.md)
+* [Setup automatic Bcc in Mail App](working-with-email/setup-automatic-bcc-in-mail-app.md)
+
 ## ☔️ Having problems?
 
 * [FAQ](having-problems/faq.md)
 * [Troubleshooting](having-problems/troubleshooting.md)
 * [Contact support](having-problems/contact-support.md)
-
-## 💌 Working with email
-
-* [Setup automatic Bcc in FastMail](working-with-email/setup-automatic-bcc-in-fastmail.md)

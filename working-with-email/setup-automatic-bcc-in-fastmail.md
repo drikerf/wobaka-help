@@ -10,14 +10,14 @@ First, in the FastMail web application, head over to **Settings > Sending identi
 
 FastMail makes it easy to setup automatic Bcc per email addresses. This allows you to automatically Bcc Wobaka when sending from, for example your work email, but not from your personal email address. Click **Edit** to continue to Bcc settings for a specific email.
 
-### 3. Set your auto BCC address
+### 3. Set your auto Bcc address
 
 In settings, click on **Show advanced preferences**. Now you can add _your_ Wobaka Mailbox as the **Auto Bcc** address and choose if you want to automatically Bcc this address when sending from external clients such as the Mail App on macOS as well.&#x20;
 
 Hit **Save** when you're done and then you're ready to send! 🥳
 
 {% hint style="info" %}
-You can find your Mailbox address in Wobaka settings.
+You can find your Mailbox address in Wobaka under **Settings > Mailbox**.
 {% endhint %}
 
 ![](<../.gitbook/assets/Screen Shot 2021-12-14 at 07.00.09.png>)

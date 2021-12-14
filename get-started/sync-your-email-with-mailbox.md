@@ -1,6 +1,10 @@
 # Sync your email with Mailbox
 
-Start sharing sales emails with your team in minutes. Just include your unique mailbox address as **BCC** or forward an email to it. Simple and privacy friendly. No inbox scanning required. This is how to get started.
+Start sharing sales emails with your team in minutes. Just include your unique mailbox address as **Bcc** or forward an email to it. Simple and privacy friendly. No inbox scanning required. This is how to get started.
+
+{% hint style="info" %}
+Only **you** can see the **Bcc** address. Your contacts will never see this.
+{% endhint %}
 
 {% embed url="https://vimeo.com/571632725" %}
 Video walk-through of Mailbox
