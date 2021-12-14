@@ -1,21 +1,25 @@
 # Setup email sending
 
-To be able to send email with Wobaka you need to set your SMTP settings. This can be done in **Settings &gt; Email settings**. 
+To be able to send email with Wobaka you need to set your SMTP settings. This can be done in **Settings > Email settings**.&#x20;
 
 1. Check "SMTP settings enabled"
 2. Enter your SMTP Host, Port, Username and Password
 
 Click "Test and save". This will test your settings and if everything works you'll be notified with a success. If it doesn't work there is probably some issue with your settings/email provider.
 
+{% hint style="info" %}
+Any email provider that supports SMTP should work with Wobaka. However some providers have limitations which makes them less reliable. **We recommend FastMail or Gmail for sending emails**.
+{% endhint %}
+
 ![Email settings](../.gitbook/assets/screenshot-2021-07-12-at-12.22.37.png)
 
-Finding out your SMTP settings often only requires you to Google "&lt;Provider&gt; SMTP settings" for example: "Gmail SMTP settings" or "FastMail SMTP settings". To make things easier, we've included guides for FastMail and Gmail below.
+Finding out your SMTP settings often only requires you to Google "\<Provider> SMTP settings" for example: "Gmail SMTP settings" or "FastMail SMTP settings". To make things easier, we've included guides for FastMail and Gmail below.
 
 ### Using FastMail App Passwords and SMTP
 
 FastMail uses a handy concept called App passwords and requires all third party apps to use app passwords rather than your normal password to login. This is great because it provides additional security for you as a FastMail user.
 
-Instead of using your normal password to login to a third party app you can create an app password in FastMail. This is done under **Password & Security &gt; App Passwords**.
+Instead of using your normal password to login to a third party app you can create an app password in FastMail. This is done under **Password & Security > App Passwords**.
 
 You can have multiple app passwords and choose what services they should have access to, like sending and receiving email with IMAP/POP/SMTP, contact management with CardDAV/LDAP and calendars with CalDAV. **For Wobaka, you only need to select SMTP**.
 
@@ -36,8 +40,6 @@ It's often also the case that use need to enable use of "less secure apps" to al
 ### Having trouble?
 
 Don't hesitate to send us an email at [hey@wobaka.com](mailto:hey@wobaka.com).
-
-
 
 
 
