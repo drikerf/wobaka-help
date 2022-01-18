@@ -28,4 +28,10 @@ After selecting status you can assign what fields you want to import. Unassigned
 
 {% embed url="https://vimeo.com/654856643" %}
 
+### 5. Custom fields (Optional)
+
+Wobaka also has support for importing custom attributes on contacts. You can set your own attributes by assigning the column to _Custom_ and typing the name of your attribute. Note that only English letters, numbers, hyphens and spaces are allowed as attribute names.
+
+![Importing custom attributes](<../.gitbook/assets/Screen Shot 2022-01-18 at 10.10.15.png>)
+
 That's it! Your contacts are now imported 🥳!
