@@ -4,9 +4,11 @@ Email outreach takes time. Start by sending 10 emails a day and after a while yo
 
 ### Create an email template
 
-Setting up automations is much easier when you've already created a few templates to pick from. You can create and manage your email templates under **Settings &gt; Email templates**. You can dive deeper into how merge tags work and other template features here:
+Setting up automations is much easier when you've already created a few templates to pick from. You can create and manage your email templates under **Settings > Email templates**. You can dive deeper into how merge tags work and other template features here:
 
-{% page-ref page="../diving-deeper/managing-email-templates.md" %}
+{% content-ref url="../diving-deeper/managing-email-templates.md" %}
+[managing-email-templates.md](../diving-deeper/managing-email-templates.md)
+{% endcontent-ref %}
 
 ![Create a new email template](../.gitbook/assets/screenshot-2021-07-12-at-10.17.52.png)
 
@@ -60,25 +62,28 @@ Starting an automation on a contact is as easy as pressing play. Just head over 
 Before sending an automation to a contact you need to setup email sending settings.
 {% endhint %}
 
-{% page-ref page="setup-email-sending.md" %}
+{% content-ref url="setup-email-sending.md" %}
+[setup-email-sending.md](setup-email-sending.md)
+{% endcontent-ref %}
 
 ![Start your automation by just pushing Start.](../.gitbook/assets/screenshot-2021-07-12-at-10.41.23.png)
 
 ### Customize emails for sending
 
-Once you're automation you still have the option to customize your emails for just this contact. This makes it super easy to create highly personalized outreach campaigns. 
+Once you're automation you still have the option to customize your emails for just this contact. This makes it super easy to create highly personalized outreach campaigns.&#x20;
 
 Emails that have not yet been sent have a future sending date and will appear in blue. Just click the edit button to customize.
 
 ![Customize pending emails](../.gitbook/assets/screenshot-2021-07-12-at-11.10.26.png)
 
-### Cancel automation
+### When you get a reply
 
-If you for some reason want to pending emails on a contact you can cancel the automation by clicking cancel in the contact automation list. This is useful for instance when you've got a reply and want to take over manually from there.
+When someone has replied to your automation you may want to cancel future steps. This is done by clicking the check icon on the automation, which will mark it as replied. You can also do this when you get a reply after an automation has completed to change the status of the automation from _completed_ to _replied_.
 
-![Cancel automation](../.gitbook/assets/screenshot-2021-07-12-at-11.15.52.png)
+![Mark automation as replied](<../.gitbook/assets/Screen Shot 2022-01-20 at 09.11.52.png>)
 
+Finally, you can also cancel an automation for any other reason by clicking the the cross icon. This will also delete all future steps.
 
+![Cancel automation](<../.gitbook/assets/Screen Shot 2022-01-20 at 09.11.52 copy.png>)
 
 That's it! We hope you'll enjoy saving hours on email outreach, every day 🚀.
-
