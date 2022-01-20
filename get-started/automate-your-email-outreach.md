@@ -82,6 +82,8 @@ When someone has replied to your automation you may want to cancel future steps.
 
 ![Mark automation as replied](<../.gitbook/assets/Screen Shot 2022-01-20 at 09.11.52.png>)
 
+### Cancel an automation
+
 Finally, you can also cancel an automation for any other reason by clicking the the cross icon. This will also delete all future steps.
 
 ![Cancel automation](<../.gitbook/assets/Screen Shot 2022-01-20 at 09.11.52 copy.png>)
