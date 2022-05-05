@@ -54,8 +54,8 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 
 ## Working with email
 
-{% content-ref url="working-with-email/how-to-send-better-cold-emails.md" %}
-[how-to-send-better-cold-emails.md](working-with-email/how-to-send-better-cold-emails.md)
+{% content-ref url="working-with-email/how-to-send-better-cold-email.md" %}
+[how-to-send-better-cold-email.md](working-with-email/how-to-send-better-cold-email.md)
 {% endcontent-ref %}
 
 {% content-ref url="working-with-email/setup-automatic-bcc-in-fastmail.md" %}
