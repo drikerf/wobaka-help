@@ -52,6 +52,16 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 [default-opportunity-settings.md](diving-deeper/default-opportunity-settings.md)
 {% endcontent-ref %}
 
+## Working with email
+
+{% content-ref url="working-with-email/how-to-send-better-cold-emails.md" %}
+[how-to-send-better-cold-emails.md](working-with-email/how-to-send-better-cold-emails.md)
+{% endcontent-ref %}
+
+{% content-ref url="working-with-email/setup-automatic-bcc-in-fastmail.md" %}
+[setup-automatic-bcc-in-fastmail.md](working-with-email/setup-automatic-bcc-in-fastmail.md)
+{% endcontent-ref %}
+
 ## Having problems?
 
 {% content-ref url="having-problems/faq.md" %}

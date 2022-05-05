@@ -21,6 +21,7 @@
 
 ## 💌 Working with email
 
+* [How to send better cold emails](working-with-email/how-to-send-better-cold-emails.md)
 * [Setup automatic Bcc in Fastmail](working-with-email/setup-automatic-bcc-in-fastmail.md)
 
 ## ☔️ Having problems?
