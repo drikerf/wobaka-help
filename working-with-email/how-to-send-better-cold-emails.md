@@ -1,4 +1,4 @@
-# How to send better cold email
+# How to send better cold emails
 
 Cold email and email in general works best when you don't try to cheat the system. We made automations so that you can offload time-consuming tasks like following up with a lead after some number of days. **Not to spam people.** Heck, it even took us a year before we added the ability to start automations in bulk.&#x20;
 
@@ -14,7 +14,7 @@ Simple, plain emails are also much easier to read, especially on mobile.
 
 Images and files make emails larger and this may trigger spam filters in Gmail, Fastmail and other providers. Keep your emails slim, add links to files instead and use something like Dropbox for hosting them.
 
-People also don't appreciate their inbox being filled with megabytes of images, pdfs and other files.
+People also don't appreciate their inbox being filled with megabytes of images, pdfs or whatever. Be nice 😄.
 
 ### Why do I have to cancel automations manually?
 

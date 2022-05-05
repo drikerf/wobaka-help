@@ -30,6 +30,10 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 [setup-email-sending.md](get-started/setup-email-sending.md)
 {% endcontent-ref %}
 
+{% content-ref url="get-started/automations-faq.md" %}
+[automations-faq.md](get-started/automations-faq.md)
+{% endcontent-ref %}
+
 ## Dive deeper
 
 {% content-ref url="diving-deeper/customize-contact-statuses.md" %}

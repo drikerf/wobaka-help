@@ -8,6 +8,7 @@
 * [Sync your email with Mailbox](get-started/sync-your-email-with-mailbox.md)
 * [Invite team members](get-started/invite-team-members.md)
 * [Automate your email outreach](get-started/automate-your-email-outreach.md)
+* [Automations FAQ](get-started/automations-faq.md)
 * [Setup email sending](get-started/setup-email-sending.md)
 * [Send bulk email automations](get-started/send-bulk-email-automations.md)
 
