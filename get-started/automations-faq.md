@@ -12,6 +12,14 @@ Files make emails larger and this may trigger spam filters in Gmail, Fastmail an
 
 People also don't appreciate their inbox being filled with megabytes of images, pdfs and other files.
 
+### Should I send follow up emails as replies or not?
+
+We highly recommend following these [4 principles for successfull follow up emails](https://blog.wobaka.com/4-principles-of-great-follow-up-emails/).
+
+No one likes to read huge email threads, so please write your follow up emails so it stands on it's own using a simple reminder of why you're emailing them, and keeping it short and sweet with a single ask.
+
+We have designed Wobaka to help you send good emails. That's why each email in Wobaka is sent on its own and never as a reply to a previous message.
+
 ### Why do I have to cancel automations manually?
 
 Doing a full email integration, reading your emails and looking for replies doesn't make sense for many reasons. Mainly:
