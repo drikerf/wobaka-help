@@ -19,6 +19,7 @@
 * [Create a new pipeline](diving-deeper/create-a-new-pipeline.md)
 * [Managing email templates](diving-deeper/managing-email-templates.md)
 * [Default opportunity settings](diving-deeper/default-opportunity-settings.md)
+* [Email tracking](diving-deeper/email-tracking.md)
 
 ## 💌 Working with email
 

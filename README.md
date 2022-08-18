@@ -56,6 +56,10 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 [default-opportunity-settings.md](diving-deeper/default-opportunity-settings.md)
 {% endcontent-ref %}
 
+{% content-ref url="diving-deeper/email-tracking.md" %}
+[email-tracking.md](diving-deeper/email-tracking.md)
+{% endcontent-ref %}
+
 ## Working with email
 
 {% content-ref url="working-with-email/how-to-send-better-cold-emails.md" %}
