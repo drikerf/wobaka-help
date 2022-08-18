@@ -10,6 +10,8 @@ You can easily setup email tracking when creating a new or editing and existing 
 
 ![Email tracking settings](<../.gitbook/assets/Screen Shot 2022-08-18 at 10.13.06.png>)
 
+After enabling link tracking, all links created with the link tool in the email editor will be tracked. If you don't want to track a specific link, you can simply just type out the URL (which will be clickable in most email clients) instead of creating a link for it.
+
 ### Analyze performance
 
 On the automation page you can see how many people have opened, clicked and replied to your emails. Now you can make insightful decisions such as working on your subject line if opens are low, or improve your messaging if clicks or replies are low etc.
