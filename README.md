@@ -22,6 +22,10 @@ Are we missing something? [Let us know](https://wobaka.com/support)!
 [invite-team-members.md](get-started/invite-team-members.md)
 {% endcontent-ref %}
 
+{% content-ref url="get-started/track-deals-in-your-pipeline.md" %}
+[track-deals-in-your-pipeline.md](get-started/track-deals-in-your-pipeline.md)
+{% endcontent-ref %}
+
 {% content-ref url="get-started/automate-your-email-outreach.md" %}
 [automate-your-email-outreach.md](get-started/automate-your-email-outreach.md)
 {% endcontent-ref %}
