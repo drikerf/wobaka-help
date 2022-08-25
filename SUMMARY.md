@@ -11,6 +11,7 @@
 * [Setup email sending](get-started/setup-email-sending.md)
 * [Send bulk email automations](get-started/send-bulk-email-automations.md)
 * [Automations FAQ](get-started/automations-faq.md)
+* [Track deals in your pipeline](get-started/track-deals-in-your-pipeline.md)
 
 ## 🤿 Diving deeper
 
