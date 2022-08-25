@@ -6,6 +6,20 @@ Wobaka allows you to have as many pipelines as you want and customize them to fi
 
 This guide will show you how to get started with tracking opportunities.
 
+### Your pipeline
+
+This is what a pipeline looks like. You simply drag opportunities from left to right. The rightmost stage is reserved for _won_ deals. You can also mark opportunities as _lost_ by clicking the ⃠ button.
+
+The annualized value shown for each stage is only showing opportunities with you _default currency_ which you can setup in company settings. It's basically an estimated sum of your monthly deals multiplied by 12 added to your annual and one-time deal values.
+
+Clicking _Show detailed values_ will show you more detailed stage info like value in each currency.
+
+{% hint style="info" %}
+Only managers can set default opportunity options like currency, amount and period.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-24 at 09.09.24 (1).png" alt=""><figcaption><p>Your pipeline</p></figcaption></figure>
+
 ### Create a new opportunity
 
 You can create opportunities on contacts or on the pipeline page. Let's begin with the contact.
