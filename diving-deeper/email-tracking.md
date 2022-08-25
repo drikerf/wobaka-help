@@ -10,7 +10,7 @@ You can easily setup email tracking when creating a new or editing and existing 
 
 ![Email tracking settings](<../.gitbook/assets/Screen Shot 2022-08-18 at 10.13.06.png>)
 
-After enabling link tracking, all links created with the link tool in the email editor will be tracked. If you don't want to track a specific link, you can simply just type out the URL (which will be clickable in most email clients) instead of creating a link for it.
+After enabling link tracking, **all links created with the link tool in the email editor will be tracked**. If you don't want to track a specific link, you can simply just type out the URL (which will be clickable in most email clients) instead of creating a link for it.
 
 ### Analyze performance
 
