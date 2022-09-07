@@ -40,6 +40,12 @@ The other way to create an opportunity is through the pipeline page. Start with 
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 08.55.19.png" alt=""><figcaption><p>Opportunity form</p></figcaption></figure>
 
+### Mark opportunity as lost
+
+You can mark an opportunity as lost by clicking the ⃠ button. If you want to view your lost opportunities, use the _Show lost_ filter.
+
+Opportunity still alive? Use the ⚡️ button to bring it back to life and unmark it as lost.
+
 ### Customize your pipelines
 
 Your team manager can create, remove and customize pipelines. You can find more info on the following pages.
